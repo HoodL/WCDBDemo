@@ -1,0 +1,18 @@
+PODS:
+  - WCDB (1.0.6):
+    - WCDB/sqlcipher (= 1.0.6)
+  - WCDB/sqlcipher (1.0.6)
+
+DEPENDENCIES:
+  - WCDB
+
+SPEC REPOS:
+  trunk:
+    - WCDB
+
+SPEC CHECKSUMS:
+  WCDB: 4d2926bf695b2e00d785b50afd32c2dcc8cbbd98
+
+PODFILE CHECKSUM: 0e60d42a991480c118d65e8d8f8929f5b4fd68a2
+
+COCOAPODS: 1.9.3
